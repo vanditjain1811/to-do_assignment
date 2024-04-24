@@ -1,0 +1,43 @@
+.todo-container {
+  background-color: #f7edf0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.add {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 250px;
+}
+input {
+  width: 100%;
+}
+
+.kg-button {
+  min-width: 50px;
+}
+
+.kg-row {
+  width: 100%;
+}
+.input {
+  width: 100%;
+  border-radius: 25px;
+  height: 40px;
+}
+.ct {
+  width: 100%;
+  margin-top: 15px;
+}
+.items{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.smaller-button {
+  padding: 2px 6px; 
+  font-size: 5px; 
+}
